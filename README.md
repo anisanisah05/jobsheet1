@@ -17,6 +17,8 @@ latihan3
 
 latihan4
 
+Apabila print akan menampilkan hasil pada satu baris, namun jika println akan menampilkan pada baris selanjutnya
+
 ![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/5.PNG)
 
 latihan5
