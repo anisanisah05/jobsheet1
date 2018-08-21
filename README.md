@@ -79,4 +79,8 @@ lanjutan, latihan4
 
 lanjutan, latihan5
 
+praktikum
+
+![alt text](https://github.com/anisanisah05/jobsheet1/blob/master/20.PNG)
+
 
